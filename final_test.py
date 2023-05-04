@@ -6,7 +6,6 @@ import math
 import PIL.Image
 import numpy as np
 
-
 def app():
 
     # Setting frame dimension for webcam
@@ -23,7 +22,6 @@ def app():
     word = ""
 
     ##############################
-
 
     #capturing video
     cap = cv2.VideoCapture(0)
