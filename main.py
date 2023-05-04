@@ -4,6 +4,8 @@ import final_test
 import os
 
 
+
+
 def start_button(t):
     final_test.app()
 
@@ -12,7 +14,6 @@ def read_button(t):
 
 def see_alphabets(t):
     os.startfile("res\\Alphabets.jpeg") 
-
 
 window = Tk()
 
